@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-require('../config/connect-mongo');
+require('./config/connect-mongo');
 
 const app = express();
 
@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
-app.use('/api/product', require('../routes/product'));
+app.use('/api/product', require('./routes/product'));
 
 
 app.listen(app.get('port'), () => {
