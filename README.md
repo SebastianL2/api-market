@@ -21,14 +21,14 @@ npm run dev
 ```
 El **puerto** por el que corre el API es el `5000`
 
-Tambien el API se encuentra alojada en Heroku 
-[https://api-product-electiva.herokuapp.com/](https://api-product-electiva.herokuapp.com/)
+El API se encuentra alojada en vercel
+[[https://api-product-electiva.herokuapp.com/](https://api-market-bivz.vercel.app/)]([https://api-product-electiva.herokuapp.com/](https://api-market-bivz.vercel.app/))
 
 Se uso **Mongo Atlas** para gestionar la base de datos en la nube.  
 
 ---
-### Rutas 🛣️
-### Product 🥃🍊🍦🍔
+### Rutas 
+### Product 
 - `/api/product/` Tipo `GET` => Muestra todos los productos disponibles.
 - `/api/product/` Tipo `POST` => Permite agregar un nuevo producto. Ejemplo 👇🏻
 ```json
