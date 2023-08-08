@@ -42,3 +42,12 @@ Se uso **Mongo Atlas** para gestionar la base de datos en la nube.
 - `/api/product/:id` Tipo `GET` => Muestra un solo producto por el `id` generado en mongo.
 -  `/api/product/:id` Tipo `DELETE` => Permite eliminar un producto de la base de datos.
 
+###Objetivos del Taller:
+
+Comprender los conceptos básicos de una API RESTful.
+Aprender a implementar rutas y endpoints en una API.
+Conectar y gestionar una base de datos utilizando MongoDB Atlas.
+Realizar operaciones CRUD a través de la API.
+Familiarizarse con las mejores prácticas en el diseño y desarrollo de APIs.
+
+
