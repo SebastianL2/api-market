@@ -19,6 +19,25 @@ o en modo desarrollo 👇🏻
 ```bash
 npm run dev
 ```
+# 🎯 dependencias
+|  Nombre |  Version  |
+|  -------------  |  -------------  |
+|cors|2.8.5|  
+| dotenv|10.0.0|
+|express|4.18.2|
+|mongoose|6.0.14|
+
+```
+# 🎯 devDependencias
+|  Nombre |  Version  |
+|  -------------  |  -------------  |
+|eslint|8.3.0|  
+|nodemon|3.0.0|
+|express|4.18.2|
+|mongoose|6.0.14|
+```
+
+    
 El **puerto** por el que corre el API es el `5000`
 
 El API se encuentra alojada en vercel
