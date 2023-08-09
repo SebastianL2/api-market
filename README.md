@@ -60,4 +60,12 @@ Familiarizarse con las mejores prácticas en el diseño y desarrollo de APIs.
 
 ![Vistaprevia3](https://github.com/SebastianL2/api-market/blob/main/IMG/Diagrama%20en%20blanco%20(6).png?raw=true)
 
+# 🎯 Requisitos  
+|  Estado  |  Funcion  |
+|  -------------  |  -------------  |
+|☑️|Se implementa una api en la nube|  
+|☑️|la API permite eliminar productos|
+|☑️|la API permite buscar productos por id|
+|/|la API permite añadir productos (desplegada la api esta funcion no cumple el requisito )|
+
 
