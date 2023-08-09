@@ -35,7 +35,7 @@ npm run dev
 |nodemon|3.0.0|
 |express|4.18.2|
 |mongoose|6.0.14|
-```
+
 
     
 El **puerto** por el que corre el API es el `5000`
