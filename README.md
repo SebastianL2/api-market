@@ -69,7 +69,7 @@ Se uso **Mongo Atlas** para gestionar la base de datos en la nube.
 ### Esquema 2 . de productos
 ![Vistaprevia2](https://github.com/SebastianL2/api-market/blob/main/IMG/Diagrama%20en%20blanco%20(11).png?raw=true)
 ---
-### Esquema 3 . Diagrama de actividades
+### Esquema 3 . Funcionalidada de los metodos
 ![Vistaprevia2](https://github.com/SebastianL2/api-market/blob/main/IMG/Captura.PNG?raw=true)
 ---
 ### Esquema 4 . Diagrama de actividades
