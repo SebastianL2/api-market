@@ -52,5 +52,7 @@ Familiarizarse con las mejores prácticas en el diseño y desarrollo de APIs.
 
 ### Esquema 1 
 ![Vistaprevia](https://github.com/SebastianL2/api-market/blob/main/IMG/Diagrama%20en%20blanco%20(15).png?raw=true)
+### Esquema 2 . de productos
+![Vistaprevia](https://github.com/SebastianL2/api-market/blob/main/IMG/Diagrama%20en%20blanco%20(11).png?raw=true)
 
 
