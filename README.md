@@ -57,11 +57,11 @@ Se uso **Mongo Atlas** para gestionar la base de datos en la nube.
 ---
 ### Objetivos del Taller:
 
-Comprender los conceptos básicos de una API RESTful.
-Aprender a implementar rutas y endpoints en una API.
-Conectar y gestionar una base de datos utilizando MongoDB Atlas.
-Realizar operaciones CRUD a través de la API.
-Familiarizarse con las mejores prácticas en el diseño y desarrollo de APIs.
+- Comprender los conceptos básicos de una API RESTful.
+- Aprender a implementar rutas y endpoints en una API.
+- Conectar y gestionar una base de datos utilizando MongoDB Atlas.
+- Realizar operaciones CRUD a través de la API.
+- Familiarizarse con las mejores prácticas en el diseño y desarrollo de APIs.
 ---
 ### Esquema 1 
 ![Vistaprevia](https://github.com/SebastianL2/api-market/blob/main/IMG/Diagrama%20en%20blanco%20(15).png?raw=true)
