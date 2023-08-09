@@ -51,6 +51,6 @@ Realizar operaciones CRUD a través de la API.
 Familiarizarse con las mejores prácticas en el diseño y desarrollo de APIs.
 
 ### Esquema 1 
-![Vistaprevia](./IMG/Diagrama en blanco(6).PNG)
+![Vistaprevia](https://github.com/SebastianL2/api-market/blob/main/IMG/Diagrama%20en%20blanco%20(15).png?raw=true)
 
 
