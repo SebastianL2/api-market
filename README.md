@@ -28,13 +28,7 @@ npm run dev
 |mongoose|6.0.14|
 
 
-# 🎯 devDependencias
-|  Nombre |  Version  |
-|  -------------  |  -------------  |
-|eslint|8.3.0|  
-|nodemon|3.0.0|
-|express|4.18.2|
-|mongoose|6.0.14|
+
 
 
     
